@@ -22,6 +22,8 @@
 #   this version ignores all files by default
 # -----------------------------------------------------------------
 
+Movefile
+
 # ignore everything in the root except the "wp-content" directory.
 /*
 !wp-content/
